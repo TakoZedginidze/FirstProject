@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Create New File conflict from VS code
+=======
+Create New File conflict from github
+>>>>>>> bdd83bcaac49a01eefc2abf08b10f7bc1877b7e5
